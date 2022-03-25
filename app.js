@@ -1,8 +1,7 @@
 console.log('new section');
 
-function soele() {
-    console.log('some')
-
+function main() {
+    let bob = 25
 }
+
 let some = 25
-    
