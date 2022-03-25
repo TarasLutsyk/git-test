@@ -5,3 +5,4 @@ function main() {
 }
 
 let some = 25
+let fun = 30
