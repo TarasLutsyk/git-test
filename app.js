@@ -1,2 +1,2 @@
 console.log('new section');
-let = 24
+let oen = 45
