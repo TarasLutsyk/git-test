@@ -1,6 +1,7 @@
 console.log('new section');
 
-function soele() {
-    console.log('some')
-    let some = 200
-}
+let dfd = 100
+let dfdsto = 100
+let sdfto = 100
+let sdftso = 100
+
