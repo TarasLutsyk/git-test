@@ -1,4 +1,5 @@
 console.log('new section');
 
-let some = 100
-let one = 100
+function some() {
+    console.log('some')
+}
