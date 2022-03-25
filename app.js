@@ -1,5 +1,6 @@
 console.log('new section');
 
-let some = 100
-let one = 100
-let three = 100
+function soele() {
+    console.log('some')
+    let some = 25
+}
