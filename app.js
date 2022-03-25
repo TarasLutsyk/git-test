@@ -2,5 +2,5 @@ console.log('new section');
 
 function soele() {
     console.log('some')
-    let some = 25
+    let some = 200
 }
