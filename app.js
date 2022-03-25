@@ -1,5 +1,5 @@
 console.log('new section');
 
-function some() {
+function soele() {
     console.log('some')
 }
