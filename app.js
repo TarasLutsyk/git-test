@@ -7,3 +7,4 @@ let sdftso = 100
 
 let some = 25
 let bob = 25
+let enother = 'str'
