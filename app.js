@@ -8,5 +8,5 @@ let sdftso = 200
 let some = 25
 let boab = 25
 console.log(
-    "dfd"
+    boab
 )
